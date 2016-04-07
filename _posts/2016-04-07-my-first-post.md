@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My First Post"
-published: false
+published: true
 date: 2016-04-07
 categories: [general]
 tags: [author]
