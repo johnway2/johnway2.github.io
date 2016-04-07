@@ -7,4 +7,4 @@ categories: [general]
 tags: [author]
 ---
 #My First Post
-##Welcome to my blog.
+Welcome to my blog.
